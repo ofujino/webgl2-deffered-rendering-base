@@ -1,0 +1,17 @@
+{
+  "name": "webgl2-deferred-rendering-base",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.5.1"
+  },
+  "dependencies": {
+    "gl-matrix": "^3.4.3",
+    "stats.js": "^0.17.0",
+    "webgl-lint": "^1.9.3"
+  }
+}
